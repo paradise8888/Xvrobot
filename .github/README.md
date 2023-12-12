@@ -62,10 +62,6 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 
 Press `Ctrl+b` and then `d`
 
-<p align="center">
-  <img src="https://graph.org/file/4e2bc734e411e2060cb12.png">
-</p>
-
 </details>
 ━━━━━━━━━━━━━━━━━━━━
 
