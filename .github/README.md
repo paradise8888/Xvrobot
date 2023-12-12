@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="[https://telegra.ph/file/587494fe223374d6c7ec3.jpg]">
+  <img src="https://telegra.ph/file/587494fe223374d6c7ec3.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [xᴠ ✘ ʀᴏʙᴏᴛ](https://t.me/Spamxmoan_bot)**_
