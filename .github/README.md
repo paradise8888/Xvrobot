@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="[[](https://telegra.ph/file/587494fe223374d6c7ec3.jpg)](https://telegra.ph/file/587494fe223374d6c7ec3.jpg)">
+  <img src="[https://telegra.ph/file/587494fe223374d6c7ec3.jpg]">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [xᴠ ✘ ʀᴏʙᴏᴛ](https://t.me/Spamxmoan_bot)**_
@@ -74,10 +74,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Xvsupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/XV_UPDATES"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
