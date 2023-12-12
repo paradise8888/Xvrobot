@@ -12,7 +12,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [xᴠ ✘ ʀᴏʙᴏ
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="[https://graph.org/file/6961eb4e48ff175661166.jpg](https://telegra.ph/file/587494fe223374d6c7ec3.jpg)">
+  <img src="[https://telegra.ph/file/587494fe223374d6c7ec3.jpg](https://telegra.ph/file/587494fe223374d6c7ec3.jpg)">
 </p>
 
 <p align="center">
